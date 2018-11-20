@@ -1,6 +1,5 @@
 function NoviProzor()
-{
-	var slika = document.getElementById("slika_coin").src;
+{ var slika = document.getElementById("slika_coin").src;
 	console.log(slika);
 	
 	
