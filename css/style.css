@@ -81,7 +81,7 @@ header a:hover{
 
 #pocetna {
 	min-height:400px;
-	background:url('../slike/crypto1.jpg') no-repeat;
+	background:url('../slike/crypto1.jpg');
 	text-align:center;
 	color:#F9F9F9;
 	background-size:100%
